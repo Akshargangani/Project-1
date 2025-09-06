@@ -1,0 +1,14 @@
+/* client/src/styles.css */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #f4f4f4;
+}
+button {
+  padding: 6px 12px;
+  margin: 4px;
+  background: #007bff;
+  border: none;
+  color: white;
+  cursor: pointer;
+}
